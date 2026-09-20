@@ -14,6 +14,8 @@
 </body>
 <ul>
   <li>honestly just whatever this course can teach me</li>
-  <li>I think this course is</li>
+  <li>how to manage bigger projects.</li>
+  <li>how to work with other people in large teams</li>
+  <li>HTML</li>
 </ul>
 </html>
